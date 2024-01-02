@@ -1,0 +1,13 @@
+.card1{
+    width: 200px;
+    background-color: bisque;
+    padding: 20px;
+    box-sizing: content-box;
+}
+.card1 div{
+    margin-block-start: 15px;
+}
+
+.card2 input{
+    background-color: yellow;
+}
